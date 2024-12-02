@@ -4,6 +4,7 @@ The task was, given a URL to a google doc containing a table with 3 columns (x, 
 Recreate the secret message by parsing the data and arranging the characters in correct order based off their respective coordinates.
 
 Example Table:
+
 <img width="602" alt="Screenshot 2024-12-02 at 10 00 05 AM" src="https://github.com/user-attachments/assets/6b1c46ca-de67-4d69-b0e5-b8f0f722a8fe">
 
 Originl URL:
